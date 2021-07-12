@@ -3,6 +3,13 @@
 YApi 是一个非常优秀的项目，只是基本没有维护了。所以我们考虑新开一个分支（YApi Pro）接手维护，希望更多人能参与进来。
 YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新、处理问题，欢迎更多社区的小伙伴一起参与。
 
+### Docker 镜像
+
+YApi Pro 提供 Docker 镜像，可以直接通过 Docker 安装部署，方便快捷
+
+https://hub.docker.com/repository/docker/yapipro/yapi
+
+
 **QQ交流**
 
 群号：666400713
