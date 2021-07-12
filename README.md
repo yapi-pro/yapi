@@ -7,7 +7,7 @@ YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新�
 
 YApi Pro 提供 Docker 镜像，可以直接通过 Docker 安装部署，方便快捷
 
-https://hub.docker.com/repository/docker/yapipro/yapi
+https://hub.docker.com/r/yapipro/yapi
 
 
 **QQ交流**
