@@ -1,8 +1,21 @@
+## YApi Pro 说明
+
+YApi 是一个非常优秀的项目，只是基本没有维护了。所以我们考虑新开一个分支（YApi Pro）接手维护，希望更多人能参与进来。
+YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新、处理问题，欢迎更多社区的小伙伴一起参与。
+
+**QQ交流**
+
+群号：666400713
+
+![YApi Pro 交流QQ群](https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg)
+
+
+
 ## YApi  可视化接口管理平台
 
 体验地址：
 
-[https://yapi.baidu.com](https://yapi.baidu.com)
+[https://yapi.pro](https://yapi.pro)
 
 文档：
 <p><a target="_blank" href="https://hellosean1025.github.io/yapi">hellosean1025.github.io/yapi</a></p>
