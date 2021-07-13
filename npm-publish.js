@@ -26,4 +26,4 @@ shell.exec ('git push origin ' + version);
 console.log('git push success', version)
 
 console.log('正在执行npm发布')
-shell.exec('npm publish')
+shell.exec('npm publish --registry https://registry.npmjs.org/')
