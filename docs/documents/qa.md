@@ -28,7 +28,7 @@
 
 ## Q4 发现了 Bug 怎么办？
 
-请反馈到 <a href="https://github.com/YMFE/yapi/issues" _blank="target">Github</a>，功能性的问题我们会在一周内修复，并在每周一发布新的版本 Tag.
+请反馈到 <a href="https://github.com/yapi-pro/yapi/issues" _blank="target">Github</a>，功能性的问题我们会在一周内修复，并在每周一发布新的版本 Tag.
 
 ## Q5 部署不成功怎么办？
 

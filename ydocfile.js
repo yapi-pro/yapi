@@ -30,7 +30,7 @@ module.exports = {
                     "href": "http://yapi.demo.qunar.com"
                 },{
                     "name": "Github",
-                    "href": "https://github.com/YMFE/yapi"
+                    "href": "https://github.com/yapi-pro/yapi"
                 }],
                 "intro": [{ // 首页的正文部分，数组项依次渲染，可重复使用
                     "title": "为 API 开发者设计的管理平台", // 介绍板块标题

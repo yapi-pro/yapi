@@ -24,7 +24,7 @@ const HomeGuest = () => (
           <Col span={24}>
             <div className="home-header">
               <a href="#" className="item">
-                YAPI
+                YApi Pro
               </a>
               <a
                 target="_blank"
@@ -42,7 +42,7 @@ const HomeGuest = () => (
             <div className="home-des">
               <div className="logo">
                 <LogoSVG length="72px" />
-                <span className="name">YAPI</span>
+                <span className="name">YApi Pro</span>
               </div>
               <div className="detail">
                 高效、易用、功能强大的API管理平台<br />

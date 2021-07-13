@@ -18,7 +18,7 @@ class LoginContainer extends Component {
             <Row type="flex" justify="center">
               <Col xs={20} sm={16} md={12} lg={8} className="container-login">
                 <Card className="card-login">
-                  <h2 className="login-title">YAPI</h2>
+                  <h2 className="login-title">YApi Pro</h2>
                   <div className="login-logo">
                     <LogoSVG length="100px" />
                   </div>

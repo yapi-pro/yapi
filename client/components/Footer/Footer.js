@@ -69,8 +69,8 @@ Footer.defaultProps = {
       iconType: 'github',
       linkList: [
         {
-          itemTitle: 'YApi 源码仓库',
-          itemLink: 'https://github.com/YMFE/yapi'
+          itemTitle: 'YApi Pro 源码仓库',
+          itemLink: 'https://github.com/yapi-pro/yapi'
         }
       ]
     },
@@ -79,8 +79,12 @@ Footer.defaultProps = {
       iconType: 'team',
       linkList: [
         {
+          itemTitle: 'YApi-Pro',
+          itemLink: 'https://github.com/yapi-pro'
+        },
+        {
           itemTitle: 'YMFE',
-          itemLink: 'https://ymfe.org'
+          itemLink: 'https://ymfe.org/'
         }
       ]
     },
@@ -90,20 +94,20 @@ Footer.defaultProps = {
       linkList: [
         {
           itemTitle: 'Github Issues',
-          itemLink: 'https://github.com/YMFE/yapi/issues'
+          itemLink: 'https://github.com/yapi-pro/yapi/issues'
         },
         {
           itemTitle: 'Github Pull Requests',
-          itemLink: 'https://github.com/YMFE/yapi/pulls'
+          itemLink: 'https://github.com/yapi-pro/yapi/pulls'
         }
       ]
     },
     {
-      title: 'Copyright © 2018 YMFE',
+      title: ' ',
       linkList: [
         {
           itemTitle: `版本: ${version} `,
-          itemLink: 'https://github.com/YMFE/yapi/blob/master/CHANGELOG.md'
+          itemLink: 'https://github.com/yapi-pro/yapi/blob/master/CHANGELOG.md'
         },
         {
           itemTitle: '使用文档',

@@ -4,7 +4,7 @@
 
 ```bash
 mkdir yapi && cd yapi
-git clone https://github.com/YMFE/yapi.git vendors --depth=1 # 或者下载 zip 包解压到 vendors 目录
+git clone https://github.com/yapi-pro/yapi.git vendors --depth=1 # 或者下载 zip 包解压到 vendors 目录
 ```
 
 2.修改配置
