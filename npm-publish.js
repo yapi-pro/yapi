@@ -8,8 +8,8 @@ if(!version){
   process.exit(1)
 }
 
-shell.exec ('npm install --registry https://registry.npm.taobao.org');
-shell.exec ('npm run build-client');
+shell.exec ('cnpm i');
+shell.exec ('cnpm run build-client');
 shell.exec ('git add .');
 shell.exec ('git commit -a -m "chore: update static file"');
 
