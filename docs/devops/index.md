@@ -1,5 +1,5 @@
 # 内网部署
-使用我们提供的 yapi-cli 工具，部署 YApi 平台是非常容易的。建议部署成 http 站点，因 chrome 浏览器安全限制，部署成 https 会导致测试功能在请求 http 站点时文件上传功能异常。
+使用我们提供的 yapi-pro-cli 工具，部署 YApi 平台是非常容易的。建议部署成 http 站点，因 chrome 浏览器安全限制，部署成 https 会导致测试功能在请求 http 站点时文件上传功能异常。
 
 如果您是将服务器代理到 nginx 服务器，请配置 nginx 支持 websocket。
 ```
@@ -16,9 +16,9 @@ proxy_set_header Connection "upgrade";
 
 ## 安装
 ### 方式一. 可视化部署[推荐]
-执行 yapi server 启动可视化部署程序，输入相应的配置和点击开始部署，就能完成整个网站的部署。部署完成之后，可按照提示信息，执行 node/{网站路径/server/app.js} 启动服务器。在浏览器打开指定url, 点击登录输入您刚才设置的管理员邮箱，默认密码(ymfe.org) 登录系统（默认密码可在个人中心修改）。
+执行 yapi server 启动可视化部署程序，输入相应的配置和点击开始部署，就能完成整个网站的部署。部署完成之后，可按照提示信息，执行 node/{网站路径/server/app.js} 启动服务器。在浏览器打开指定url, 点击登录输入您刚才设置的管理员邮箱，默认密码(yapi.pro) 登录系统（默认密码可在个人中心修改）。
 ```bash
-npm install -g yapi-cli --registry https://registry.npm.taobao.org
+npm install -g yapi-pro-cli --registry https://registry.npm.taobao.org
 yapi server
 ``` 
 ### 方式二. 命令行部署

@@ -71,10 +71,10 @@ YApi 支持通过命令行导入接口数据，他的应用场景是做自动化
 
 ### 使用方法
 
-第一步，确保 `yapi-cli >= 1.2.7` 版本，如果低于此版本请升级 `yapi-cli` 工具
+第一步，确保 `yapi-pro-cli >= 1.5.2` 版本，如果低于此版本请升级 `yapi-pro-cli` 工具
 
 ```
-npm install -g yapi-cli
+npm install -g yapi-pro-cli
 ```
 
 第二步，在任意一个目录下新建配置文件 `yapi-import.json`，内容如下：

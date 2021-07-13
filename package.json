@@ -1,7 +1,7 @@
 {
   "name": "yapi-pro",
-  "version": "1.9.3",
-  "description": "YAPI",
+  "version": "1.9.4",
+  "description": "YApi Pro",
   "main": "server/app.js",
   "scripts": {
     "dev-copy-icon": "cp -r static/iconfont ./",

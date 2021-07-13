@@ -59,9 +59,9 @@ YApi 是<strong>高效</strong>、<strong>易用</strong>、<strong>功能强大
 * mongodb（2.6+）
 * git
 #### 安装
-使用我们提供的 yapi-cli 工具，部署 YApi 平台是非常容易的。执行 yapi server 启动可视化部署程序，输入相应的配置和点击开始部署，就能完成整个网站的部署。部署完成之后，可按照提示信息，执行 node/{网站路径/server/app.js} 启动服务器。在浏览器打开指定url, 点击登录输入您刚才设置的管理员邮箱，默认密码为 ymfe.org 登录系统（默认密码可在个人中心修改）。
+使用我们提供的 yapi-pro-cli 工具，部署 YApi 平台是非常容易的。执行 yapi server 启动可视化部署程序，输入相应的配置和点击开始部署，就能完成整个网站的部署。部署完成之后，可按照提示信息，执行 node/{网站路径/server/app.js} 启动服务器。在浏览器打开指定url, 点击登录输入您刚才设置的管理员邮箱，默认密码为 yapi.pro 登录系统（默认密码可在个人中心修改）。
 
-    npm install -g yapi-cli --registry https://registry.npm.taobao.org
+    npm install -g yapi-pro-cli --registry https://registry.npm.taobao.org
     yapi server 
     
 #### 服务管理
@@ -104,7 +104,7 @@ YApi 是<strong>高效</strong>、<strong>易用</strong>、<strong>功能强大
 
 ### YApi docker部署（非官方）
 * [使用 alpine 版 docker 镜像快速部署 yapi](https://www.jianshu.com/p/a97d2efb23c5)
-* [docker-yapi: 基于官方yapi-cli的docker-compose方案](https://github.com/Ryan-Miao/docker-yapi)
+* [docker-yapi: 基于官方yapi-pro-cli的docker-compose方案](https://github.com/Ryan-Miao/docker-yapi)
 * [docker-compose一键部署yapi](https://github.com/jinfeijie/yapi)
 * [docker-YApi: 更易用的 YApi 镜像](https://github.com/fjc0k/docker-YApi)
 * [使用DockerCompose构建部署Yapi](https://github.com/MyHerux/daily-code/blob/master/Program/%E5%B7%A5%E5%85%B7%E7%AF%87/Yapi/%E4%BD%BF%E7%94%A8DockerCompose%E6%9E%84%E5%BB%BA%E9%83%A8%E7%BD%B2Yapi.md)
