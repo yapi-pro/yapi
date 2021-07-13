@@ -1,5 +1,5 @@
 {
-  "name": "yapi-vendor",
+  "name": "yapi-pro",
   "version": "1.9.3",
   "description": "YAPI",
   "main": "server/app.js",
