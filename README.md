@@ -7,7 +7,8 @@ YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新�
 **v1.9.3** (2021-07-13)
 1. 修复 mockJs 运行沙盒漏洞 (近期服务因为漏洞被攻击的问题)
 2. 修复 jsf.extend 依赖问题（安装时报错的问题）
-3. 增加 Dockerfile 文件，发布 Dockerfile 镜像
+3. 修复 yapi-cli 无法更新到最新版的问题（改用：yapi-pro-cli）
+4. 增加 Dockerfile 文件，发布 Dockerfile 镜像
 
 ### Docker 镜像
 
@@ -20,6 +21,9 @@ gitee 仓库：
 https://gitee.com/yapi-pro/yapi
 
 ### 交流群
+使用问题可在群里咨询，我们基本上都能比较及时的回复
+
+
 <img alt="YApi Pro 交流微信群" src="https://user-images.githubusercontent.com/87224061/125380875-838c3b00-e3c5-11eb-81eb-31bbae0a2d91.jpg" width="350" />
 <img alt="YApi Pro 交流QQ群" src="https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg" width="350" />
 
