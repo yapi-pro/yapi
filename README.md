@@ -13,12 +13,9 @@ https://hub.docker.com/r/yapipro/yapi
 gitee 仓库：
 https://gitee.com/yapipro/yapi
 
-### QQ交流
-
-群号：666400713
-
-![YApi Pro 交流QQ群](https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg)
-
+### 交流群
+<img alt="YApi Pro 交流微信群" src="https://user-images.githubusercontent.com/87224061/125380875-838c3b00-e3c5-11eb-81eb-31bbae0a2d91.jpg" width="350" />
+<img alt="YApi Pro 交流QQ群" src="https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg" width="350" />
 
 
 ## YApi  可视化接口管理平台
