@@ -213,5 +213,8 @@
       "babel-register"
     ],
     "babel": "inherit"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
