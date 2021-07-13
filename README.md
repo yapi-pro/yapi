@@ -5,8 +5,8 @@ YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新�
 
 ### 最近更新 
 **v1.9.3** (2021-07-13)
-1. 修复 mockJs 运行沙盒漏洞
-2. 修复 jsf.extend 依赖问题
+1. 修复 mockJs 运行沙盒漏洞 (近期服务因为漏洞被攻击的问题)
+2. 修复 jsf.extend 依赖问题（安装时报错的问题）
 3. 增加 Dockerfile 文件，发布 Dockerfile 镜像
 
 ### Docker 镜像
