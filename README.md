@@ -10,15 +10,22 @@ YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新�
 3. 修复 yapi-cli 无法更新到最新版的问题（改用：yapi-pro-cli）
 4. 增加 Dockerfile 文件，发布 Dockerfile 镜像
 
-### Docker 镜像
+### 仓库
+
+1. github：https://github.com/yapi-pro
+2. gitee：https://gitee.com/yapi-pro/yapi （国内镜像）
+3. Docker 镜像：https://hub.docker.com/r/yapipro/yapi
 
 YApi Pro 提供 Docker 镜像，可以直接通过 Docker 安装部署，方便快捷
 
-https://hub.docker.com/r/yapipro/yapi
 
-### 国内镜像
-gitee 仓库：
-https://gitee.com/yapi-pro/yapi
+### 从 YApi 升级到 YApi Pro
+原来安装了 YApi 的用户，可以无缝升级到最新版的 YApi Pro，运行以下命令即可升级。
+
+    npm install -g yapi-pro-cli --registry https://registry.npm.taobao.org
+    yapi update 
+
+
 
 ### 交流群
 使用问题可在群里咨询，我们基本上都能比较及时的回复
