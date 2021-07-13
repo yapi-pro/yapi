@@ -11,7 +11,7 @@ https://hub.docker.com/r/yapipro/yapi
 
 ### 国内镜像
 gitee 仓库：
-https://gitee.com/yapipro/yapi
+https://gitee.com/yapi-pro/yapi
 
 ### 交流群
 <img alt="YApi Pro 交流微信群" src="https://user-images.githubusercontent.com/87224061/125380875-838c3b00-e3c5-11eb-81eb-31bbae0a2d91.jpg" width="350" />
