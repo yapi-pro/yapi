@@ -53,7 +53,7 @@ npm install  --registry https://registry.npm.taobao.org # 安装依赖
 ```bash
 npm run install-server  # 安装程序会初始化数据库索引和管理员账号，管理员账号名可在 config.json 配置
 # 默认输出
-# 初始化管理员账号成功,账号名："admin@admin.com"，密码："ymfe.org"
+# 初始化管理员账号成功,账号名："admin@admin.com"，密码："yapi.pro"
 ```
 
 5.启动开发机
