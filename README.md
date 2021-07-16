@@ -30,10 +30,7 @@ YApi Pro 提供 Docker 镜像，可以直接通过 Docker 安装部署，方便�
 ### 交流群
 使用问题可在群里咨询，我们基本上都能比较及时的回复
 
-
-<img alt="YApi Pro 交流微信群" src="https://user-images.githubusercontent.com/87224061/125380875-838c3b00-e3c5-11eb-81eb-31bbae0a2d91.jpg" width="350" />
-<img alt="YApi Pro 交流QQ群" src="https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg" width="350" />
-
+![YApi微信群 QQ群](https://user-images.githubusercontent.com/87224061/125883300-bd4389f4-4749-49f1-9509-0d39a8ba6288.png)
 
 ## YApi  可视化接口管理平台
 
